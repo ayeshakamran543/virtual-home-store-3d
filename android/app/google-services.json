@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298254986770",
+    "project_id": "home-provision-df8a4",
+    "storage_bucket": "home-provision-df8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298254986770:android:4d003e0cd3e3f02abd32cb",
+        "android_client_info": {
+          "package_name": "com.example.fyp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhFliWiCWzCmLAAMzjEZugzkAE5sjCmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
